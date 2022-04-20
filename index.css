@@ -1,0 +1,56 @@
+*{
+    padding:0;
+    margin:0;
+}
+.big-container{
+    height:100vh;
+    width :50%;
+    background-color: cyan;
+    margin:auto;
+    padding:2%;
+}
+.container1{
+    height:10%;
+    background-color: orangered;
+    width:90%;
+    margin:auto;
+}
+.container2{
+    height: 50%;
+    width:90%;
+    margin:10px auto;
+    display:flex;
+
+}
+.child1{
+    height:100%;
+    background-color: blueviolet;
+    flex:0.5;
+    
+}
+.child2{
+    height:100%;
+    flex:0.5;
+}
+.sub1{
+    height:50%;
+    background-color: orangered;
+    width:100%;
+}
+.sub2{
+    height:50%;
+    background-color: green;
+    width:100%;
+}
+.container3{
+    height:20%;
+    background-color: orangered;
+    width:90%;
+    margin:auto;
+}
+.container4{
+    height:20%;
+    background-color: red;
+    width:90%;
+    margin:10px auto;
+}

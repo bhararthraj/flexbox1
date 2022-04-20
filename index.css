@@ -18,7 +18,7 @@
 .container2{
     height: 50%;
     width:90%;
-    margin:10px auto;
+    margin: 1% auto;
     display:flex;
 
 }
@@ -46,11 +46,11 @@
     height:20%;
     background-color: orangered;
     width:90%;
-    margin:auto;
+    margin:1% auto;
 }
 .container4{
     height:20%;
     background-color: red;
     width:90%;
-    margin:10px auto;
+    margin:1% auto;
 }
